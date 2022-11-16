@@ -1,6 +1,6 @@
 # python api written for CYSE 465 - lgsvl - lidar point cloud
 
-# group members include: Viren Kumar, David Thai, Kinza Rizvi, Hajrah Chourdhry, Luke A____
+# group members include: Viren Kumar, David Thai, Kinza Rizvi, Hajrah Choudhry, Luke A____
 
 # code grabbed from github/lgsvl/quickstart
 

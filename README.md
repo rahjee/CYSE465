@@ -1,6 +1,7 @@
 # CYSE465
 
 Contribution:
-- Viren Kumar:
-
+- Viren Kumar: 
+  - edited video
+  - wrote script
 - David Thai:
